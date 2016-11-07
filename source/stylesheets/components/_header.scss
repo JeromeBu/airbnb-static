@@ -1,0 +1,25 @@
+.header form {
+  background-color: $gray-lighter;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+}
+
+.header-flat-owner {
+  padding: 20px;
+}
+
+.header-flat-name h1 {
+  font-size: 18px;
+}
+
+.header-flat-name p {
+  font-size: 14px;
+}
